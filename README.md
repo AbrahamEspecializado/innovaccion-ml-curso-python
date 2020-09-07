@@ -25,7 +25,7 @@ Notarás que este repositorio es un WIP (_Work In Progress_), por lo que a conti
 - [X] Agregar `LICENSE`
 - [ ] Agregar `CODE_OF_CONDUCT`
 - [ ] Agregar cuadernos en español
-   - [ ] 01. Introducción a Jupyter Notebooks y datos
+   - [ ] 01. Introducción a Jupyter Notebooks y datos (**_En proceso._**)
    - [ ] 02. Regresión lineal 
    - [ ] 03. Regresión lineal múltiple
    - [ ] 04. Regresión polinomial
