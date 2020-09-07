@@ -1,4 +1,4 @@
-# Ejercicios de programación de Python del curso intensivo de ML 💻
+# Innovacción Virtual - Sección de ejercicios de ML con Python 💻
 
 ¡Bienvenidas y bienvenidos! En este repositorio encontrarás los ejercicios de programación con Python para la sección intensiva de ML, parte del programa **Innovacción Virtual**.
 
